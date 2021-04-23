@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-width: 100vw;
+  min-height: 100vh;
+  background-color: cyan; }
+  body #timer {
+    display: flex;
+    color: black;
+    font-size: 8rem; }
+  body #actions {
+    padding: 1rem 2rem;
+    font-size: 2rem;
+    border-radius: 1rem; }
